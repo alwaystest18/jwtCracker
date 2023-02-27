@@ -110,10 +110,10 @@ E:\golang>
 5.生成alg=none的jwt token
 
 ```
-D:\golang>jwtCracker.exe encode -pf payload.txt
+E:\golang>jwtCracker.exe encode -pf payload.txt
 eyJhbGciOiAibm9uZSIsInR5cCI6ICJKV1QifQ.ew0gICJpc3MiOiAiaXNzdXNlciIsDSAgImF1ZCI6ICJhdWRpZW5jZSIsDSAgInRlbmFudF9pZCI6ICIwMDAwMDAiLA0gICJyb2xlX25hbWUiOiAi6LaF57qn566h55CG5ZGYIiwNICAidXNlcl9pZCI6ICIxMDAwIiwNICAicm9sZV9pZCI6ICIxMDAwIiwNICAidXNlcl9uYW1lIjogInJvb3QiLA0gICJkZXRhaWwiOiB7DSAgICAidHlwZSI6ICJ3ZWIiLA0gICAgInN0b3JlX2lkIjogMTUzNTE1NjIxMTc4MTk5NjUwMA0gIH0sDSAgInRva2VuX3R5cGUiOiAiYWNjZXNzX3Rva2VuIiwNICAiYWNjb3VudCI6ICJyb290IiwNICAiY2xpZW50X2lkIjogInNhYmVyIiwNICAiZXhwIjogMTY3NzUxMzY3OSwNICAibmJmIjogMTY3NzM0MDg3OQ19.
 
-D:\golang>
+E:\golang>
 ```
 
 ## 执行时间
