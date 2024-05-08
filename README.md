@@ -10,15 +10,10 @@ jwtCracker是一款go语言编写的jwt常见安全问题利用工具，主要�
 
 ## 安装
 
-### 1.安装依赖
-
 ```
-go get -u github.com/golang-jwt/jwt
-```
-
-### 2.编译
-
-```
+git clone https://github.com/alwaystest18/jwtCracker.git
+cd jwtCracker/
+go install
 go build jwtCracker.go
 ```
 
